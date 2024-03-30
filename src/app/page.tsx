@@ -16,20 +16,12 @@ export default function Home() {
       <div className="relative flex place-items-center">
         <Image
           className="relative"
-          src="/communityfull.svg"
+          src="/cmt_final.svg"
           alt="Communitie Logo"
           width={550}
           height={107}
           priority
         />
-        {/* <Image
-          className="relative"
-          src="/find_your_tribe.svg"
-          alt="Find Your Tribe"
-          width={250}
-          height={107}
-          priority
-        /> */}
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-3 lg:text-left">
@@ -42,7 +34,7 @@ export default function Home() {
             Habits@Communitie
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Let's grow together as we embark on a journey of self-improvement and personal growth.
+            Let&apos;s grow together as we embark on a journey of self-improvement and personal growth.
           </p>
         </a>
 
@@ -55,7 +47,7 @@ export default function Home() {
             Culture@Communitie
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Let's share stories, exchange recipes, dance our heart out and immerse ourselves in the beauty of our diversity.
+            Let&apos;s share stories, exchange recipes, dance our heart out and immerse ourselves in the beauty of our diversity.
           </p>
         </a>
 
@@ -68,7 +60,7 @@ export default function Home() {
             Sports@Communitie
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Let's play together! Whether you are a seasoned pro or just enjoy shooting hoops with friends theres a place for everyone here.
+            Let&apos;s play together! Whether you are a seasoned pro or just enjoy shooting hoops with friends theres a place for everyone here.
           </p>
         </a>
 
@@ -81,7 +73,7 @@ export default function Home() {
             Profession@Communitie
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Let's create together! Making visually stunning engaging videos, for shutterbugs to capture and exploring the cutting edge of technology and innovation.
+            Let&apos;s create together! Making visually stunning engaging videos, for shutterbugs to capture and exploring the cutting edge of technology and innovation.
           </p>
         </a>
 
@@ -94,7 +86,7 @@ export default function Home() {
             Business Owners@Communitie
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Let's build dreams together calling all entrepreneurs to cheer you on every step of the way.
+            Let&apos;s build dreams together calling all entrepreneurs to cheer you on every step of the way.
           </p>
         </a>
       </div>
